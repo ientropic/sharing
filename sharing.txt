@@ -1,0 +1,31 @@
+Course Resource Bank
+
+Staying up-to-date on latest trends:
+
+*Hacker News - https://news.ycombinator.com/
+	Y Combinator is a startup accelerator that has forum/comment area mostly populated by people that work in technology, but it's not uncommon for unrelated niche topics to come up.
+
+*Reddit - https://reddit.com/	
+	One of the most popular discussion forums, it can be very detailed when looking at specific subreddits that are geared towards specifics interests.
+
+*Twitter - https://twitter.com/
+	Very useful for following experts in just about every field. Like Reddit, it has a low signal-to-noise issue.
+	
+Stack Exchange - https://stackoverflow.com/
+	Similar to a forum, it's useful for troubleshooting issues/asking questions. A lot of it is software related but many topics can be found.
+
+	
+
+Tools:
+
+Wolfram Alpha - https://www.wolframalpha.com/
+	I find it mostly useful on the odd occasion I need to do math or quick comparisons between different areas. But, this is now incorporated in... 
+	
+ChatGPT - https://chat.openai.com/chat
+	A large language model designed to be interacted with via chat, has many uses in research and knowledge gathering, but results must be researched carefully.
+	
+Github - https://github.com/
+	Excellent platform for finding open source software tools.
+
+Stack Exchange - https://stackoverflow.com/
+	Similar to a forum, it's useful for troubleshooting issues/asking questions. A lot of it is software related but many topics can be found.
